@@ -17,7 +17,7 @@ Telegram info group - https://t.me/blockchainbrawlers_bot
 
 
 
-![alt-текст](https://www.fw-bot.com/images/bot-setting.jpg)
+![alt-текст](https://miro.medium.com/max/700/1*WS5legm3zOrbZMoSA6ShLg.png)
 
 ## BBrawlers bot setting
 
@@ -32,5 +32,4 @@ Line notify will notify the line as set
 * Improved bot speed
 * Improved bot design
 
-
-
+![alt-текст](https://miro.medium.com/max/700/1*leRF0iaWGYknLJKY5BqGUw.png)
