@@ -1,5 +1,5 @@
 # Blockchain Brawlers BOT - Download Free
-####(use the bot for the first 30 days for free! then the cost will be $ 15 per month)
+#### (use the bot for the first 30 days for free! then the cost will be $ 15 per month)
 
 Telegram info group - https://t.me/blockchainbrawlers_bot
 -------------
